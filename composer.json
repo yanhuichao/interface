@@ -1,13 +1,13 @@
 {
-    "name": "_weshop/interface",
-    "description": "WeShop Test Interface",
-    "type": "project",
+    "name": "weshop/interface",
+    "description": "interface for weshop",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "yanhuichao",
             "email": "liuyingji.me@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
