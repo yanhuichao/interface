@@ -9,5 +9,11 @@
             "email": "liuyingji.me@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Pay\\AliPay\\": "src/Pay/AliPay",
+            "Pay\\WePay\\": "src/Pay/WePay"
+        }
+    },
     "require": {}
 }
