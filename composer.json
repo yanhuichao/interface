@@ -1,0 +1,13 @@
+{
+    "name": "_weshop/interface",
+    "description": "WeShop Test Interface",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yanhuichao",
+            "email": "liuyingji.me@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
